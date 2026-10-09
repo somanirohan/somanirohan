@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohan-somani-3ba552308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohanjagdishsomani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=somanirohan&label=Profile+Views&color=58A6FF&style=for-the-badge" />
 </p>
 
@@ -70,7 +69,7 @@ I enjoy working across the entire stack: designing responsive user interfaces, b
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 > Replace the links below with your actual repositories.
 
@@ -82,7 +81,7 @@ I enjoy working across the entire stack: designing responsive user interfaces, b
 | 🛡️ **[Fraud Detection System](https://github.com/YOUR-USERNAME/REPO-NAME)** | ML-based system to identify suspicious and fraudulent transactions | `Python` `ML` |
 | 🧰 **[Interactive Developer Tools](https://github.com/YOUR-USERNAME/REPO-NAME)** | Interactive utilities that make everyday development workflows easier | `React` `TypeScript` `Node.js` |
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
