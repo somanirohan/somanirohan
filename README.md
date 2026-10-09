@@ -1,7 +1,7 @@
 <h1 align="center">Rohan Somani</h1>
 
 <p align="center">
-  <b>Computer Engineering student @ VIT Pune · Full-Stack Developer · AI/ML Enthusiast</b>
+  <b>Software Engineer · Full-Stack Developer · AI/ML Enthusiast</b>
 </p>
 
 <p align="center">
